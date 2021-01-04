@@ -1,0 +1,80 @@
+
+
+body{
+	margin: 0;
+	padding:0;
+	background-image: url(images/2.jpg);
+	background-size: cover;
+}
+
+
+header {
+	background: black;
+	color: white;
+	padding: 0px 0px 0px 30px;
+	padding-top:0px;
+	height: 60px;
+}
+
+header h1 {
+	display: inline;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 400;
+	font-size: 32px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 10px;
+		padding-top: 10px;
+
+}
+
+nav ul {
+	display: inline;
+	padding: 0px;
+	float: left;
+}
+nav ul li {
+	display: inline-block;
+	list-style-type: none;
+	color: white;
+	float: left;
+	margin-left: 12px;
+}
+
+nav ul li a {
+	color: white;
+	text-decoration: none;
+}
+
+#nav {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.homered {
+	background-color: red;
+	padding: 17px 0px 26px 10px;
+}
+
+.divider {
+	background-color: red;
+	height: 5px;
+}
+
+.homeblack:hover {
+	background-color: blue;
+	padding: 17px 0px 26px 10px;
+
+}
+ .damn:hover{
+ 	background-color: green;
+	padding: 38px 10px 1px 10px;
+
+ }
+ .lab ul li {
+ 	list-style: none;
+ 	text-decoration: none;
+ 	padding-left: 500px;
+ 	padding:20px;
+ 	color:white;
+ 	font-size:30px;
+ }
